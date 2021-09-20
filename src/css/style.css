@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width:100vw;
+    height: 100vh;
+    overflow-y: hidden;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(89,125,103);
+    background: linear-gradient(323deg, rgba(89,125,103,1) 0%, rgba(51,68,212,1) 89%);
+}
